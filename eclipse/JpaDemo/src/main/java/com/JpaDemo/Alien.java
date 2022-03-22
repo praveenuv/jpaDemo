@@ -2,7 +2,7 @@ package com.JpaDemo;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+//model class
 @Entity
 public class Alien 
 {
